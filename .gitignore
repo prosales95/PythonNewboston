@@ -1,6 +1,6 @@
 .DS_Store
 *.exe
-/foo/*
+/foo
 #Visual Studio files
 *.[Oo]bj
 *.user
